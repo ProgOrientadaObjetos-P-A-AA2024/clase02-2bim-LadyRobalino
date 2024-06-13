@@ -1,6 +1,7 @@
 
 package paquete2;
-
+// En la linea 5 existe un error ya que necesitamos crear un constructor "super"
+// que se acople a la superclase "Estudiante".
 public class EstudiantePresencial extends Estudiante{
     
     /*1.  Declarar
